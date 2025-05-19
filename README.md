@@ -10,10 +10,10 @@ This personal project showcases my ability to transform raw HR data into meaning
   <img src="screenshot.png" alt="Main Window" width="500"/>
 </p>
 
-# Objectives
+## Objectives
 The primary goal of this project was to demonstrate how data can be leveraged to uncover attrition patterns and support strategic decision-making in HR. The dashboard aims to simulate how leadership teams can use visual insights for better workforce management.
 
-# Key Features & Insights
+## Key Features & Insights
 - Attrition Overview
 A clean and intuitive summary view of overall attrition trends with KPI indicators and line charts for quick understanding.
 - Age Group Analysis
@@ -29,17 +29,17 @@ The dashboard includes filters, slicers, and drill-down features, allowing users
 - Mobile Responsiveness
 Designed to be fully responsive across devices, ensuring a smooth experience on both desktop and mobile platforms.
 
-# Outcomes
+## Outcomes
 This project illustrates how data storytelling and visualization can simplify complex HR challenges. By presenting mock attrition data in a clear and insightful format, the dashboard simulates how decision-makers can:
 - Detect high-risk attrition segments
 - Understand contributing factors
 - Implement targeted retention strategies
 
-# Tools & Technologies
+## Tools & Technologies
 - Power BI
 - DAX
 - Data Modeling
 - Mock HR Dataset
 
-# Conclusion
+## Conclusion
 This project serves as a demonstration of my skills in data analysis, visual storytelling, and dashboard development. It reflects how impactful and user-centric dashboards can empower better decision-making in real-world business scenarios—especially in human resource management.
